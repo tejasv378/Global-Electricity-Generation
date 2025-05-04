@@ -15,7 +15,8 @@ This can be used by various stakeholders including Energy Policy Makers, Governm
 - Radial Gauge Chart: Shows totals for specific year or average totals for year interval relative to the target value <img width="240" alt="Gauge Snapshot" src="https://github.com/user-attachments/assets/6cee9e8e-a233-45fa-9282-68cb9f104d3e" />
 
 - Shape Map: Depicts electricity generation distribution amongst different countries during specified time period. Consists of colors along a gradient where Red = Worst, Yellow = Neutral, Green = Best
-(Note: For Coal, Gas and Fossil Fuel pages Red = High %, Yellow = Medium %, and Green = Low % ; For other pages Red = Low %, Yellow = Medium %, and Green = High %) <img width="433" alt="ShapeMap Snapshot" src="https://github.com/user-attachments/assets/9c7711e6-b911-48b8-92d5-1c43a943501f" />
+(Note: For Coal, Gas and Fossil Fuel pages Red = High %, Yellow = Medium %, and Green = Low % ; For other pages Red = Low %, Yellow = Medium %, and Green = High %)
+<img width="433" alt="ShapeMap Snapshot" src="https://github.com/user-attachments/assets/9c7711e6-b911-48b8-92d5-1c43a943501f" />
 
 - Clustered Bar Chart: Ranks electricity generation distribution for different countries during specified period. Calculated measure '[source] Country Rank' created to determine ranking <img width="308" alt="Clustered Bar Chart Snapshot" src="https://github.com/user-attachments/assets/6920b0c3-e0f2-4f85-b499-e61aa5ed7e4e" />
 
