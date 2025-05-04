@@ -10,7 +10,8 @@ Users can easily navigate between different report pages by clicking on the page
 This can be used by various stakeholders including Energy Policy Makers, Government Agencies, Environmental NGO's, and Climate Change Advocates to help guide them with key decisions that can make life better for both our planet as well as society. This may include identifying areas/regions needing more investments in electricity, especially in renewable sources to reduce the rate at which global warming is accelerating. Additionally, this can raise our overall awareness about the still desparate need to drastically cut down on fossil fuel dependency.    
 
 ### Each page consists of the following visuals: 
-- Slicer: Allows user to select specific year or year interval for data analysis <img width="200" alt="Slicer Snapshot" src="https://github.com/user-attachments/assets/3941a4b3-2c9a-4041-8c45-71307fbc39c5" />
+- Slicer: Allows user to select specific year or year interval for data analysis
+  <img width="200" alt="Slicer Snapshot" src="https://github.com/user-attachments/assets/3941a4b3-2c9a-4041-8c45-71307fbc39c5" />
 - Radial Gauge Chart: Shows totals for specific year or average totals for year interval relative to the target value  
 - Shape Map: Depicts electricity generation distribution amongst different countries during specified time period. Consists of colors along a gradient where Red = Worst, Yellow = Neutral, Green = Best 
 (Note: For Coal, Gas and Fossil Fuel pages Red = High %, Yellow = Medium %, and Green = Low % ; For other pages Red = Low %, Yellow = Medium %, and Green = High %)
