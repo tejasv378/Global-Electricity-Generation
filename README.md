@@ -20,4 +20,8 @@ This can be used by various stakeholders including Energy Policy Makers, Governm
 
 Note: For Fossil Fuel Electricity, data is calculated by summing up the totals of Coal, and Gas Electricity.
 
-Note: For Non-Fossil Fuel Electricity, data is calculated by summing up the totals of Hydro, Solar, Wind, and Nuclear Electricity. 
+Note: For Non-Fossil Fuel Electricity, data is calculated by summing up the totals of Hydro, Solar, Wind, and Nuclear Electricity.
+
+### Sample Page
+<img width="991" alt="Electricity Generation Page Sample" src="https://github.com/user-attachments/assets/de3b7d2f-52b3-4d5e-a96d-d5100393758a" />
+
