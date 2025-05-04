@@ -43,4 +43,4 @@ Note: For Non-Fossil Fuel Electricity, data is calculated by summing up the tota
 <img width="991" alt="Electricity Generation Page Sample" src="https://github.com/user-attachments/assets/de3b7d2f-52b3-4d5e-a96d-d5100393758a" />
 
 ### Page Navigation Bar Snapshot
-<img width="291" alt="Page Navigation Bar Snapshot" src="https://github.com/user-attachments/assets/1d7adfc9-047b-467a-938f-9dd494409a0f" />
+<img width="276" alt="Page Navigation Bar Snapshot" src="https://github.com/user-attachments/assets/184d44b4-7778-40a3-9705-925b97182b54" />
