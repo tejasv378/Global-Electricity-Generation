@@ -2,6 +2,12 @@
 
 ### Report Link: https://app.powerbi.com/view?r=eyJrIjoiMTRmYTlkOTgtMWI1My00MjY2LWExNGMtZDA5NDY1MDBjNTRjIiwidCI6ImI3OGI5MWU4LTQyOGUtNDIyZi1hNWI0LWE4ZjZjYWIwNzEwNCIsImMiOjF9
 
+### Report Snapshot
+<img width="991" alt="Electricity Generation Page Sample" src="https://github.com/user-attachments/assets/de3b7d2f-52b3-4d5e-a96d-d5100393758a" />
+
+### Page Navigation Bar Snapshot
+<img width="276" alt="Page Navigation Bar Snapshot" src="https://github.com/user-attachments/assets/184d44b4-7778-40a3-9705-925b97182b54" />
+
 ## Description
 This report enables the visualization of global electricity generation across the world for years spanning 2000-2023. This includes per capita electricity generation measured in Kilowatt-hours as well as the percentage of electricity generation amongst different energy sources including Hydro, Solar, Wind, Nuclear, Coal, Gas, Fossil Fuels, and Non-Fossil Fuels. 
 
@@ -38,9 +44,3 @@ This can be used by various stakeholders including Energy Policy Makers, Governm
 Note: For Fossil Fuel Electricity, data is calculated by summing up the totals of Coal, and Gas Electricity.
 
 Note: For Non-Fossil Fuel Electricity, data is calculated by summing up the totals of Hydro, Solar, Wind, and Nuclear Electricity.
-
-### Report Snapshot
-<img width="991" alt="Electricity Generation Page Sample" src="https://github.com/user-attachments/assets/de3b7d2f-52b3-4d5e-a96d-d5100393758a" />
-
-### Page Navigation Bar Snapshot
-<img width="276" alt="Page Navigation Bar Snapshot" src="https://github.com/user-attachments/assets/184d44b4-7778-40a3-9705-925b97182b54" />
